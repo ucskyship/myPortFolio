@@ -1,0 +1,851 @@
+body {
+    font-family: 'Handlee';
+    background-color: #000000;
+
+}
+
+.hmBackgrnd {
+    /* body */
+
+
+    position: absolute;
+    width: 92.1%;
+    height: 100%;
+    left: 150px;
+    top: 0px;
+    font-family: 'Handlee';
+
+    background: #f0efef;
+}
+
+.workBackGrnd {
+    /* body */
+
+
+    position: absolute;
+    width: 92%;
+    height: 1000px;
+    left: 6.9%;
+    top: 100%;
+    font-family: 'Handlee';
+
+    background: #070707;
+}
+
+.meMyslfbackGrnd {
+    /* body */
+
+
+    position: absolute;
+    width: 92%;
+    height: 1024px;
+    left: 131px;
+    top: 203.1%;
+
+    background: #070707;
+}
+
+.mySkillBakgrnd {
+    /* body */
+
+
+    position: absolute;
+    width: 92%;
+    height: 1024px;
+    left: 131px;
+    top: 300%;
+
+    background: #070707;
+}
+
+.contactMeBacgrnd {
+    /* body */
+
+
+    position: absolute;
+    width: 92%;
+    height: 1024px;
+    left: 131px;
+    top: 405%;
+
+    background: #070707;
+}
+
+#sideBar {
+    position: absolute;
+    width: 136px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    background: #000000;
+}
+
+.side1 {
+    position: absolute;
+    width: 57px;
+    height: 24px;
+    left: 39px;
+    top: 443px;
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.side2 {
+    position: absolute;
+    width: 83px;
+    height: 24px;
+    left: 26px;
+    top: 531px;
+
+    font-family: 'handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+
+    color: #FFFFFF;
+
+}
+
+.side3 {
+    position: absolute;
+    width: 49px;
+    height: 24px;
+    left: 43px;
+    top: 619px;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+
+    color: #FFFFFF;
+
+}
+
+.side4 {
+    position: absolute;
+    width: 76px;
+    height: 24px;
+    left: 30px;
+    top: 707px;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+
+    color: #FFFFFF;
+}
+
+.usrPic {
+    /* abstract-user-flat-3 1 */
+
+
+    position: absolute;
+    width: 136px;
+    height: 151px;
+    left: 0px;
+    top: 0px;
+
+}
+
+#myName {
+    position: absolute;
+    width: 415px;
+    height: 170px;
+    left: 200px;
+    top: 354px;
+
+    font-family: 'Handlee';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 110px;
+    text-align: right;
+
+    color: #000000;
+}
+
+.conctMe {
+    /* Rectangle 5 */
+
+
+    position: absolute;
+    width: 200px;
+    height: 56px;
+    left: 619px;
+    top: 597px;
+
+    background: #006666;
+    border-radius: 19px;
+
+
+    /* Contact me! */
+
+
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 550px;
+    top: 613px;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.navBar1 {
+    /* Rectangle 1 */
+
+
+    position: absolute;
+    width: 150px;
+    height: 33px;
+    left: 740px;
+    top: 40px;
+
+    background: #6B6B6B;
+    border-radius: 5px;
+
+
+    /* About */
+
+
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    left: 55%;
+    top: 44px;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.navBar2 {
+    /* Rectangle 2 */
+
+
+    position: absolute;
+    width: 150px;
+    height: 33px;
+    left: 906px;
+    top: 40px;
+
+    background: #006666;
+    border-radius: 5px;
+
+
+    /* My Skills */
+
+
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    left: 65%;
+    top: 44px;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.navBar3 {
+    /* Rectangle 3 */
+
+
+    position: absolute;
+    width: 150px;
+    height: 33px;
+    left: 1075px;
+    top: 40px;
+
+    background: #6B6B6B;
+    border-radius: 5px;
+
+
+    /* Work */
+
+
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    left: 75%;
+    top: 44px;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.navBar4 {
+    /* Rectangle 4 */
+
+
+    position: absolute;
+    width: 150px;
+    height: 33px;
+    left: 1241px;
+    top: 40px;
+
+    background: #006666;
+    border-radius: 5px;
+
+
+    /* Contact */
+
+
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    left: 85%;
+    top: 44px;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.myPortfolio {
+    /* My Portfolio */
+
+
+    position: absolute;
+    width: 330px;
+    height: 85px;
+    margin-top: 10%;
+    margin-left: 10%;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 85px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.introText {
+    font-family: 'Handlee';
+    position: absolute;
+    width: 40%;
+    height: 129px;
+    left: 365px;
+    top: 30%;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.list1 {
+    /* Rectangle 6 */
+
+
+    position: absolute;
+    width: 412px;
+    height: 254px;
+    left: 2.95%;
+    top: 45%;
+
+    background: #9DBCBC;
+    border-radius: 8px;
+
+
+    /* CallApp */
+
+}
+
+.list2 {
+    /* Rectangle 8 */
+
+
+    position: absolute;
+    width: 412px;
+    height: 254px;
+    left: 2.95%;
+    top: 70.5%;
+
+    background: #6B6B6B;
+    border-radius: 8px;
+
+
+    /* diaryApp */
+
+}
+
+.list3 {
+    /* Rectangle 10 */
+
+
+    position: absolute;
+    width: 412px;
+    height: 254px;
+    left: 26.45%;
+    top: 45%;
+
+    background: #006666;
+    border-radius: 8px;
+
+
+    /* lumExpress */
+
+}
+
+.list4 {
+    /* Rectangle 12 */
+
+
+    position: absolute;
+    width: 412px;
+    height: 254px;
+    left: 26.45%;
+    top: 70.5%;
+
+    background: #FFF5BB;
+    border-radius: 8px;
+
+
+    /* MenuApp jav */
+
+}
+
+.list5 {
+    /* Rectangle 14 */
+
+
+    position: absolute;
+    width: 412px;
+    height: 254px;
+    left: 50%;
+    top: 70.5%;
+
+    background: #9DBCBC;
+    border-radius: 8px;
+
+
+    /* TweetApp */
+
+}
+
+.list6 {
+    /* Rectangle 7 */
+
+
+    position: absolute;
+    width: 412px;
+    height: 254px;
+    left: 50%;
+    top: 45%;
+
+    background: #6B6B6B;
+    border-radius: 8px;
+
+
+    /* Health Management System */
+
+}
+
+.list7 {
+    /* Rectangle 9 */
+
+
+    position: absolute;
+    width: 412px;
+    height: 254px;
+    left: 73.5%;
+    top: 70.5%;
+
+    background: #9DBCBC;
+    border-radius: 8px;
+
+
+    /* xxxxxx */
+
+}
+
+.list8 {
+    /* Rectangle 11 */
+
+
+    position: absolute;
+    width: 412px;
+    height: 254px;
+    left: 73.5%;
+    top: 45%;
+
+    background: #FFF5BB;
+    border-radius: 8px;
+
+
+    /* MenuApp pyhth */
+
+}
+
+.myslf_I {
+    /* Me, Myself and I */
+
+
+    position: absolute;
+    width: 457px;
+    height: 85px;
+    left: 256px;
+    top: 20%;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 85px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #B7B7B7;
+}
+
+.abtMe {
+    position: absolute;
+    width: 1029px;
+    height: 135px;
+    left: 585px;
+    top: 45%;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.box1 {
+    /* Rectangle 16 */
+
+
+    position: absolute;
+    width: 575px;
+    height: 308px;
+    left: 3.1%;
+    top: 35%;
+
+    background: #6B6B6B;
+}
+
+.box2 {
+    /* Rectangle 19 */
+
+
+    position: absolute;
+    width: 575px;
+    height: 308px;
+    left: 3.1%;
+    top: 65%;
+
+    background: #9DBCBC;
+}
+
+.box3 {
+    /* Rectangle 17 */
+
+
+    position: absolute;
+    width: 580px;
+    height: 308px;
+    left: 35.7%;
+    top: 35%;
+
+    background: #EDE8E8;
+}
+
+.box4 {
+    /* Rectangle 20 */
+
+
+    position: absolute;
+    width: 575px;
+    height: 308px;
+    left: 35.7%;
+    top: 65%;
+
+    background: #B7B7B7;
+}
+
+.box5 {
+    /* Rectangle 18 */
+
+
+    position: absolute;
+    width: 575px;
+    height: 308px;
+    left: 68%;
+    top: 35%;
+
+    background: #9DBCBC;
+}
+
+.box6 {
+    /* Rectangle 21 */
+
+
+    position: absolute;
+    width: 575px;
+    height: 308px;
+    left: 68%;
+    top: 65%;
+
+    background: #006666;
+}
+
+.contMee {
+    /* Contact me */
+
+
+    position: absolute;
+    width: 427px;
+    height: 85px;
+    left: 256px;
+    top: 10%;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 85px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.nameCnt {
+    /* Rectangle 22 */
+
+
+    position: absolute;
+    width: 817px;
+    height: 80px;
+    left: 355px;
+    top: 40%;
+
+    background: #6B6B6B;
+    border-radius: 4px;
+
+
+    /* name */
+
+
+    position: absolute;
+    list-style: none;
+    width: 30%;
+    height: 10%;
+    left: 597px;
+    top: 40%;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 400%;
+    /* identical to box height */
+
+    text-align: left;
+
+    color: #FFFFFF;
+}
+
+.emailCnt {
+    /* Rectangle 27 */
+
+
+    position: absolute;
+    width: 817px;
+    height: 80px;
+    left: 1200px;
+    top: 40%;
+
+    background: #6B6B6B;
+    border-radius: 4px;
+
+
+    /* email */
+
+
+    position: absolute;
+    list-style: none;
+    width: 30%;
+    height: 10%;
+    left: 1150px;
+    top: 40%;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 400%;
+    /* identical to box height */
+
+    text-align: left;
+
+    color: #FFFFFF;
+}
+
+.subCnt {
+    /* Rectangle 28 */
+
+
+    position: absolute;
+    width: 1725px;
+    height: 80px;
+    left: 355px;
+    top: 50%;
+
+    background: #9DBCBC;
+
+
+    /* subject */
+
+
+    position: absolute;
+    list-style: none;
+    width: 61.4%;
+    height: 10%;
+    left: 600px;
+    top: 52.2%;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 400%;
+    /* identical to box height */
+
+    text-align: left;
+
+    color: #FFFFFF;
+}
+
+.mesgCnt {
+    /* Rectangle 29 */
+
+
+    position: absolute;
+    width: 1725px;
+    height: 261px;
+    left: 355px;
+    top: 60%;
+
+    background: #D9D9D9;
+    border-radius: 4px;
+
+
+    /* message */
+
+
+    position: absolute;
+    list-style: none;
+    width: 61.4%;
+    height: 25%;
+    left: 600px;
+    top: 65%;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 900%;
+
+    text-align: center;
+
+    color: #6B6B6B;
+}
+
+.sendMail {
+    /* Rectangle 26 */
+
+
+    position: absolute;
+    width: 388px;
+    height: 62px;
+    left: 1454px;
+    top: 70%;
+
+    background: #006666;
+    border-radius: 12px;
+
+
+    /* Send message */
+
+
+    position: absolute;
+    list-style: none;
+    width: 10%;
+    height: 40px;
+    left: 1380px;
+    top: 93%;
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
